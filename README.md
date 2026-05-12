@@ -1,4 +1,3 @@
-# SMS-SPAM-DETECTION-USING-ML
 # SMS Spam Detection using Machine Learning
 
 ## About
